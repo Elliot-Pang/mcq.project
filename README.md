@@ -1,2 +1,2 @@
 # mcq.project
-my personal mcq wee wee bee bee
+stuffsies for hacktober fest
